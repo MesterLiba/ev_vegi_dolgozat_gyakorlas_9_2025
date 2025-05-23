@@ -52,8 +52,8 @@ Belső margó balra-jobbra: 1em.
 **Egy-egy szakasz formázása**:
 
 #e6fef1; – Világoszöld háttérszín.
-#10b981; – Bal oldalon vastag zöld sáv (keret).
-Belső margó minden oldalon.
+#10b981; – Bal oldalon vastag 5px zöld sáv (keret).
+Belső margó minden oldalon 10px.
 Alsó margó: 2em.
 Lekerekített sarkok.
 
